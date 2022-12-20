@@ -1,5 +1,6 @@
-# just-the-docs-template
+# just-Test
 
+[https://eehjunggnujhee.github.io/just-test](https://eehjunggnujhee.github.io/just-test)
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
